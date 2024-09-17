@@ -4,7 +4,7 @@ I'm currently pursuing my Master's in Energy and Environmental Engineering at NT
 
 ### Tools:
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> 
   <img src="comsol3123.logowik.com.webp" alt="COMSOL" width="50" height="50"/>
