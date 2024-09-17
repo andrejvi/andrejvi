@@ -6,7 +6,6 @@ I'm currently pursuing my Master's in Energy and Environmental Engineering at NT
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Simulink_Logo.png" alt="Simulink" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <img src="comsol3123.logowik.com.webp" alt="COMSOL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
